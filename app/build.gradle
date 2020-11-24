@@ -54,7 +54,7 @@ e1{
 e2{
     var2="var2"
 }
-
+apply plugin: 'com.zzz.plugin'
 
 
 dependencies {
