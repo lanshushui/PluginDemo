@@ -55,7 +55,7 @@ e2{
     var2="var2"
 }
 apply plugin: 'com.zzz.plugin'
-
+apply plugin: 'com.zzz.remoteplugin'
 
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
