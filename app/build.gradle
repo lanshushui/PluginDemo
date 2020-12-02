@@ -56,6 +56,7 @@ e2{
 }
 apply plugin: 'com.zzz.plugin'
 apply plugin: 'com.zzz.remoteplugin'
+apply plugin: 'com.zzz.transformplugin'
 
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])

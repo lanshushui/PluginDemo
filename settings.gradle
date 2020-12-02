@@ -1,3 +1,4 @@
+include ':transformplugin'
 include ':remoteplugin'
 include ':app'
 rootProject.name = "PluginDemo"
